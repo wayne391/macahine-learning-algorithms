@@ -14,6 +14,7 @@
     * Clustering
     * Dimension Reduction
         * PCA
+        * tsne
     * Apriori
     * FP-tree
     * Recommendation
