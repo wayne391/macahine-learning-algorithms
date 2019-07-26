@@ -10,6 +10,7 @@
     * SVM
     * RF
 * Data Science
+    * Distance
     * Apriori
     * FP-tree
     * Recommendation
