@@ -11,25 +11,39 @@
     * RF
 * Data Science
     * Distance
+    * Clustering
+    * Dimension Reduction
+        * PCA
     * Apriori
     * FP-tree
     * Recommendation
         * Collaborative Filtering
-* Crawler
+* Web Crawling
     * request and bs4
     * postman
     * selenium
     * log-in session
     * CAPTCHA
+* Open Source Tools
+   * matplotlib
+   * dataframe
+   * opencv
+   * nltk
 * Basic Math
     * Linear Algebra
         * Normal Equatition
+        * SVD
     * Caculus
         * Differentiation
         * Gradient 
     * Probability
         * Entropy
-        * Bayes
+        * Likelihood
+    * ML
+        * EM-Algorithm
+            * GMM
+            * K-means
+            * HMM training
 * Deep Learning
     * Architecture
         * MLP
@@ -40,9 +54,9 @@
         * Keras
         * Tensorflow
     * Topics
-        * Image Generation
+        * Image Generation (CV)
             * GAN
-        * Sequence Labeling
+        * Sequence Labeling (NLP/MIR)
             * HMM
             * LSTM-CRF
             * Pointer Network
