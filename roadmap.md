@@ -24,6 +24,7 @@
     * postman
     * selenium
     * log-in session
+    * Regular Expression 
     * CAPTCHA
 * Open Source Tools
    * matplotlib
