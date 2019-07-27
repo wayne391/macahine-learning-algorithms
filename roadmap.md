@@ -30,11 +30,12 @@
     * log-in session
     * Regular Expression 
     * CAPTCHA
-* Open Source Tools
+* Open Source Tools and Skills
    * matplotlib
    * dataframe
    * opencv
    * nltk
+   * shell script
 * Basic Math
     * Linear Algebra
         * Normal Equatition
