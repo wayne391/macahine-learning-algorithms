@@ -5,8 +5,12 @@
     * Normal Equation
     * Polynomial Regression
 * Classification 
-    * Logistic Regression
+    * Entropy
     * Decision Tree
+    * Logistic Regression
+    * Evaluation
+        * Confustion table
+        * F-measure
     * SVM
     * RF
 * Data Science
